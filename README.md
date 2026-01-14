@@ -45,8 +45,8 @@ This help page is online so it can be updated without reinstalling the software.
 
 ---
 ## Updates
--Check updates!
--[Updates](updates.md)
+- Check updates!
+- [Updates](updates.md)
 
 ## 🆘 Need help?
 If something is not working:
