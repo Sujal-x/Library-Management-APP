@@ -52,4 +52,4 @@ This help page is online so it can be updated without reinstalling the software.
 If something is not working:
 - Check **Common Errors**
 - Verify database is created
-- Contact the admin user
+- Contact the admin user (guptasujal4185@gmail.com)
