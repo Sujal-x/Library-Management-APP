@@ -48,8 +48,14 @@ This help page is online so it can be updated without reinstalling the software.
 - Check updates!
 - [Updates](updates.md)
 
-## 🆘 Need help?
-If something is not working:
-- Check **Common Errors**
-- Verify database is created
+# 🆘 Support & Help
+
+If you face any issues while using the Library Management System:
+
+## How to report a problem
+1. Describe what you were doing
+2. Copy the error message
+3. Attach screenshots if possible
+4. Share the details on given Email
+
 - Contact the admin user (guptasujal4185@gmail.com)
