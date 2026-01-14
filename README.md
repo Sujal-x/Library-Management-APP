@@ -44,7 +44,7 @@ This help page is online so it can be updated without reinstalling the software.
 - Always backup before restoring data
 
 ---
-## Updates
+## 🆕 Updates
 - Check updates!
 - [Updates](updates.md)
 
