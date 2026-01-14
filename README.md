@@ -50,7 +50,7 @@ This help page is online so it can be updated without reinstalling the software.
 
 # 🆘 Support & Help
 
-If you face any issues while using the Library Management System:
+If you face any issues while using the Library Management System report it:
 
 ## How to report a problem
 1. Describe what you were doing
