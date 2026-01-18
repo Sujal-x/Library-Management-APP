@@ -96,11 +96,10 @@ Developer & Maintainer
 
 > Check out new updates, and support resources will be available here:  
 > **[LINK TO UPDATES README]**  
-> **[LINK TO HELP / USER GUIDE README]**
 
 ## 📘 Help
 
-> support resources will be available here:  
-> **[LINK TO UPDATES README]**  
+> Support resources will be available here:   
 > **[LINK TO HELP / USER GUIDE README]**
+
 ---
