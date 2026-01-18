@@ -92,14 +92,14 @@ Developer & Maintainer
 
 ---
 
-## 🔄 Updates & 📘 Help
+## 🔄 Updates
 
-> Check out new updates, and support resources will be available here:  
-> **[LINK TO UPDATES README]**  
+  Check out new updates:  
+> **[Updates](updates.md)**  
+
 
 ## 📘 Help
 
-> Support resources will be available here:   
-> **[LINK TO HELP / USER GUIDE README]**
+> **[Help and Guide](Help.md)**
 
 ---
