@@ -1,14 +1,14 @@
 # 📘 Book Menu Guide
 
-The Book Menu manages all books in the library.
+The Book Menu is used to manage all book records within the library system.
 
 ---
 
 ## ➕ Add New Book
-Use this when a new book arrives.
+Use this option to register a new book in the system.
 
-You must enter:
-- Book Number (must be UNIQUE)
+Required information:
+- Book Number (must be unique)
 - Book Name
 - Author
 - Publisher
@@ -16,49 +16,49 @@ You must enter:
 - Available Copies
 - Price
 
-⚠️ Available copies must NOT be more than total copies.
+**Constraint:**  
+Available copies must not exceed total copies.
 
 ---
 
 ## ✏️ Modify Book
-Used when:
-- Book price changes
-- Copies increase or decrease
-- Name or author correction
+Use this option to update existing book details, such as:
+- Price changes
+- Copy count adjustments
+- Corrections to title, author, or publisher
 
-You can leave fields blank to keep old values.
+Leaving a field blank retains the current value.
 
 ---
 
 ## 🗑️ Delete Book
-A book can be deleted **only if**:
-- It is NOT currently issued to anyone
+A book can be deleted only if it is **not currently issued**.
 
-If issued, deletion will be blocked.
+If the book is linked to an active transaction, deletion is blocked.
 
 ---
 
 ## 📋 List All Books
-Shows:
-- All books
-- Available copies
+Displays a complete overview of:
+- All registered books
 - Total copies
+- Currently available copies
 
 ---
 
-## 🔍 Search Book
+## 🔍 Search Books
+
 ### By Book Number
-- Exact search
-- Shows full book details
+- Exact match search
+- Displays full book details
 
 ### By Keyword
-- Search by:
-  - Book name
-  - Author
-  - Publisher
+Search using:
+- Book name  
+- Author  
+- Publisher  
 
 ---
 
-## 💡 Tips
-- Always check availability before issuing
-- Use keyword search if unsure of exact name
+## 💡 Notes
+- Keyword search is useful when exact details are unknown
