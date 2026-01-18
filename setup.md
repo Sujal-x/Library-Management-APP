@@ -1,56 +1,54 @@
 # 🛠️ First-Time Setup Guide
 
-Follow these steps **in order** when using the software for the first time.
+This guide covers the **one-time initialization** required before the system can be used.
+
+Follow the steps below **in the given order**.
 
 ---
 
-## STEP 1️⃣ Start the Application
-Run the program. You will see the **Main Menu**.
+## 1️⃣ Launch the Application
+Start the application and wait for the **Main Menu** to appear.
 
 ---
 
-## STEP 2️⃣ Open Admin Menu
-- Choose **ADMIN**
-- Enter the admin password
+## 2️⃣ Access the Admin Menu
+- Select **ADMIN** from the Main Menu  
+- Enter the administrator password  
 
-(Default password is provided by the administrator)
+(Default password is "1234")
 
 ---
 
-## STEP 3️⃣ Create Database
-- Select **CREATE DATABASE**
-- The system will ask:
+## 3️⃣ Create the Database
+- Choose **CREATE DATABASE**
+- When prompted:
 
 > Do you want to load DEMO DATA? (Y/N)
 
-### What does this mean?
-- **YES** → Sample books, members, and transactions will be added
-- **NO** → Empty database (recommended for real use)
+**Explanation:**
+- **YES** — Loads sample records for testing and familiarization  
+- **NO** — Creates an empty database (recommended for live use)
 
-⚠️ This question is asked **only once**.
-
----
-
-## STEP 4️⃣ Exit Admin Menu
-Once database is created, return to main menu.
+This prompt is shown **only during the first setup**.
 
 ---
 
-## STEP 5️⃣ Start Using the System
-You can now:
-- Add books
-- Add members
-- Issue and return books
-- Generate reports
+## 4️⃣ Exit Admin Menu
+After database creation completes, return to the Main Menu.
 
 ---
 
-## ❌ Common mistake
-Trying to use the system **without creating database** first.
+## 5️⃣ System Ready
+The system is now initialized and ready for normal operation.
 
 ---
 
-## ✅ Tip
-If something goes wrong, ask admin to:
-- Restore backup
-- Recreate database
+## ⚠️ Important Note
+The system will not function correctly until the database has been created.
+
+---
+
+## 🧩 Troubleshooting
+If initialization fails or data becomes inconsistent:
+- Restore from a backup, or  
+- Recreate the database from the Admin menu
